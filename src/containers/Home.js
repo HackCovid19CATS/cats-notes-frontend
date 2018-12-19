@@ -58,7 +58,7 @@ export default class Home extends Component {
     return (
       <div className="lander">
         <h1>CATS@Notes</h1>
-        <p>Une application Cloud Serverless de prise de notes depuis Annecy</p>
+        <p>Une application Cloud Serverless de prise de notes depuis ORLY</p>
         <p>(C)2018 <img src="/cats_rvb_1024x250-1024x250.png" alt="Logo CATS"/></p>
         <div>
           <Link to="/login" className="btn btn-info btn-lg">
